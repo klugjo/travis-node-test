@@ -1,2 +1,1 @@
-# travis-node-test
-Setup Travis CI with your Node project
+This is a test project used to demonstrate Travis CI integration for Node projects.
