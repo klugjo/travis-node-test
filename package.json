@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/klugjo/travis-node-test/issues"
   },
-  "homepage": "https://github.com/klugjo/travis-node-test#readme"
+  "homepage": "https://github.com/klugjo/travis-node-test#readme",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
 }
