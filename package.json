@@ -1,0 +1,30 @@
+{
+  "name": "travis-node-test",
+  "version": "1.0.0",
+  "description": "Setup Travis CI for your node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klugjo/travis-node-test.git"
+  },
+  "keywords": [
+    "GitHub",
+    "Travis",
+    "Node",
+    "Tools",
+    "Build",
+    "CI"
+  ],
+  "author": "Klughertz Jonathan <klughertz.j@gmail.com> (http://klugjo.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/klugjo/travis-node-test/issues"
+  },
+  "homepage": "https://github.com/klugjo/travis-node-test#readme",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
